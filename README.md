@@ -9,7 +9,7 @@ A simple **Todo List App** built in **Java** that lets you add, view, and remove
 ## Screenshot
 Here’s a screenshot of the app’s output:
 
-![Todo List Output](./assets/tdl.PNG)
+![Todo List Output](tdl.PNG)
 
 ## How to Run
 1. Clone this repository:
