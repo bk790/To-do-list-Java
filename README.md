@@ -14,4 +14,4 @@ Here’s a screenshot of the app’s output:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/todolistapp.git
+   git clone https://github.com/bk790/To-do-list-Java.git
